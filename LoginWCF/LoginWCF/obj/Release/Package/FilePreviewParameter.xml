@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/ngLoginApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\EsUsers\\Shakti\\DemoAPI\\WCFAPI\\AngularLogin\\LoginWCF\\LoginWCF\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\EsUsers\\Shakti\\DemoAPI\\WCFAPI\\AngularLogin\\LoginWCF\\LoginWCF\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="constr-Web.config Connection String" description="" value="Data Source=server;Initial Catalog=OnlineSync;User ID=sa;Password=espl@123" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\EsUsers\\Shakti\\DemoAPI\\WCFAPI\\AngularLogin\\LoginWCF\\LoginWCF\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='constr']/@connectionString" />
+  </parameter>
+</parameters>

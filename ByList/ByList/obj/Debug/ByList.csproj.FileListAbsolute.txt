@@ -1,0 +1,5 @@
+D:\EsUsers\Shakti\DemoAPI\WCFAPI\ByList\ByList\bin\ByList.dll.config
+D:\EsUsers\Shakti\DemoAPI\WCFAPI\ByList\ByList\bin\ByList.dll
+D:\EsUsers\Shakti\DemoAPI\WCFAPI\ByList\ByList\bin\ByList.pdb
+D:\EsUsers\Shakti\DemoAPI\WCFAPI\ByList\ByList\obj\Debug\ByList.dll
+D:\EsUsers\Shakti\DemoAPI\WCFAPI\ByList\ByList\obj\Debug\ByList.pdb

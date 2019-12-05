@@ -1,0 +1,6 @@
+E:\EsUsers\Shakti\DemoAPI\WCFAPI\AngularLogin\LoginWCF\LoginWCF\bin\LoginWCF.dll.config
+E:\EsUsers\Shakti\DemoAPI\WCFAPI\AngularLogin\LoginWCF\LoginWCF\bin\LoginWCF.dll
+E:\EsUsers\Shakti\DemoAPI\WCFAPI\AngularLogin\LoginWCF\LoginWCF\bin\LoginWCF.pdb
+E:\EsUsers\Shakti\DemoAPI\WCFAPI\AngularLogin\LoginWCF\LoginWCF\obj\Release\LoginWCF.csprojResolveAssemblyReference.cache
+E:\EsUsers\Shakti\DemoAPI\WCFAPI\AngularLogin\LoginWCF\LoginWCF\obj\Release\LoginWCF.dll
+E:\EsUsers\Shakti\DemoAPI\WCFAPI\AngularLogin\LoginWCF\LoginWCF\obj\Release\LoginWCF.pdb
