@@ -17,3 +17,10 @@ D:\API\WCFAPI\AngularLogin\LoginWCF\LoginWCF\obj\Debug\LoginWCF.csprojAssemblyRe
 D:\API\WCFAPI\AngularLogin\LoginWCF\LoginWCF\obj\Debug\LoginWCF.csproj.CoreCompileInputs.cache
 D:\API\WCFAPI\AngularLogin\LoginWCF\LoginWCF\obj\Debug\LoginWCF.dll
 D:\API\WCFAPI\AngularLogin\LoginWCF\LoginWCF\obj\Debug\LoginWCF.pdb
+D:\ESUsers\Shakti\C# API\LoginWCF\LoginWCF\bin\LoginWCF.dll.config
+D:\ESUsers\Shakti\C# API\LoginWCF\LoginWCF\bin\LoginWCF.dll
+D:\ESUsers\Shakti\C# API\LoginWCF\LoginWCF\bin\LoginWCF.pdb
+D:\ESUsers\Shakti\C# API\LoginWCF\LoginWCF\obj\Debug\LoginWCF.csprojAssemblyReference.cache
+D:\ESUsers\Shakti\C# API\LoginWCF\LoginWCF\obj\Debug\LoginWCF.csproj.CoreCompileInputs.cache
+D:\ESUsers\Shakti\C# API\LoginWCF\LoginWCF\obj\Debug\LoginWCF.dll
+D:\ESUsers\Shakti\C# API\LoginWCF\LoginWCF\obj\Debug\LoginWCF.pdb
